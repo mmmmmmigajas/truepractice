@@ -6,6 +6,4 @@ let message =
     (velocity <= 100) ? "Un poco rápido" :
     "Multa por exceso de velocidad"
 
-console.log(message);
-
-# corregi una pequeña cosa 
+console.log(message)
